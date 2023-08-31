@@ -1,6 +1,6 @@
-def sub(a,b):
-  print("sum is :")
-  return a+b
-A = sub(2,4)
+def hello():
+    print("Hi")
+def bye():
+  print("bye")
 
-print("Submission is ", A)
+print(hello())
