@@ -1,3 +1,6 @@
 def sub(a,b):
+  print("sum is :")
   return a+b
-print("Submission is ", sub(2,4))
+
+A = sub(2,4)
+print("Submission is ", A)
